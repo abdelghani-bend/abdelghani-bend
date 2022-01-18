@@ -44,7 +44,7 @@
 
 [twitter]: https://twitter.com/Abdelghani_bnd
 [instagram]: https://www.instagram.com/abdelghani_bend/
-[linkedin]: https://www.linkedin.com/in/abdelghani-benyamina-douma/
+[linkedin]: https://www.linkedin.com/in/abdelghani-bend/
 [webdevplaylist]: https://www.w3schools.com/
 [jsplaylist]: https://www.w3schools.com/
 [cssplaylist]: https://www.w3schools.com/
