@@ -2,10 +2,9 @@
 
 
 
-## I'm a Developper !!
+## I'm a software engineer !!
 
 - 🔭 I’m currently working from home
-- 🌱 I’m currently learning ... Machine learning
 - ⚡ Fun fact: I love to read books
 
 
