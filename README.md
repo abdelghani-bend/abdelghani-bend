@@ -42,7 +42,7 @@
 
 
 
-[twitter]: https://twitter.com/Abdelghani_bnd
+[twitter]: https://twitter.com/abdelghani_bend
 [instagram]: https://www.instagram.com/abdelghani_bend/
 [linkedin]: https://www.linkedin.com/in/abdelghani-bend/
 [webdevplaylist]: https://www.w3schools.com/
