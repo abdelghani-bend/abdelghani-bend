@@ -4,7 +4,7 @@
 
 ## I'm a software engineer !!
 
-- 🔭 I’m currently working from home
+- 🔭 I’m currently a software engineer at SIG Service
 - ⚡ Fun fact: I love to read books
 
 
