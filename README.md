@@ -4,7 +4,7 @@
 
 ## I'm a software engineer !!
 
-- 🔭 I’m currently a software engineer at SIG Service
+- 🔭 I’m currently Odoo/Python developer
 - ⚡ Fun fact: I love to read books
 
 
