@@ -5,7 +5,7 @@
 ## I'm a software engineer !!
 
 - 🔭 I’m currently Odoo/Python developer
-- ⚡ Fun fact: I love to read books
+- ⚡ Fun fact: I love to travel
 
 
 
